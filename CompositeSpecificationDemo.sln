@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositeSpecificationDemo", "CompositeSpecificationDemo\CompositeSpecificationDemo.csproj", "{D3401B05-8BC2-4D08-9D3B-CAD8C21D4413}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositeSpecificationDemo.Tests", "CompositeSpecificationDemo.Tests\CompositeSpecificationDemo.Tests.csproj", "{6AF13615-340D-47C5-9634-DAF7C3E65608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3401B05-8BC2-4D08-9D3B-CAD8C21D4413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3401B05-8BC2-4D08-9D3B-CAD8C21D4413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3401B05-8BC2-4D08-9D3B-CAD8C21D4413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3401B05-8BC2-4D08-9D3B-CAD8C21D4413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF13615-340D-47C5-9634-DAF7C3E65608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF13615-340D-47C5-9634-DAF7C3E65608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF13615-340D-47C5-9634-DAF7C3E65608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF13615-340D-47C5-9634-DAF7C3E65608}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0F388F6-3A56-4F31-A34D-208C73CA8F32}
+	EndGlobalSection
+EndGlobal
